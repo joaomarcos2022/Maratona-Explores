@@ -20,6 +20,7 @@ Objectives of this repository / project: </h2>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JAVASCRIPT</li>
 </ul>
 
 <br>
